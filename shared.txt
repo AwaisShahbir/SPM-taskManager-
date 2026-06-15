@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"Team member A's line" 
-=======
-"Team member B's line" 
->>>>>>> conflict-branch-B
+Team member A's line and Team member B's line (merged)
